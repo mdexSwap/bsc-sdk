@@ -4,6 +4,11 @@ Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk).
 
 You can refer to the Uniswap SDK documentation [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
+```
+FACTORY_ADDRESS = '0x3CD1C46068dAEa5Ebb0d3f55F6915B10648062B8'
+ROUTER_ADDRESS = '0x0384E9ad329396C3A6A401243Ca71633B2bC4333'
+```
+
 ## Running tests
 
 To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
